@@ -18,6 +18,11 @@ https://www.youtube.com/watch?v=vRnA5mdia40
 # PART 2: MODELING
 In the folder named, “PART 2: MODELING” you will be presented with a door lock assembly file (+ separate part files) and an SG90 servo motor (+ accessories). Your task is to create a mount for the servo motor and an arm that slides the latch back and forth. See an example image in the folder. 
 
+Example door lock mechanism with servo:
+
+![image](https://github.com/TMU-CanSat/CanSat-2023-24-Training-Tasks/assets/140219101/618829ff-e8b4-407c-b21b-2da6b743a5d6)
+
+
 **Expectations:**
 - Creating a fully-functional assembly file (including the parts you designed)
 - Use of tools including: extrude, pattern tool, fillet, chamfer, slot, and hole cut (try to use as many as these!)
