@@ -55,3 +55,5 @@ Under one zip folder, have your subfolders labeled as Part 1, 2, and Bonus.
 - CAD file of the head screw
 
 If you used an online platform to complete the training tasks (ex. Onshape), please provide the **share link** to your folders in a PDF. 
+
+Submit your final zip file here: https://forms.gle/kywAnhjzLcfHkiuX9
