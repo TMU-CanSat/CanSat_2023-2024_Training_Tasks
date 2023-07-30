@@ -1,12 +1,13 @@
 # MECHANICAL TRAINING TASK
 
 **Important Notes:**
+- Download the entire "Training Package" folder
 - DO NOT make any changes to the part or drawing files provided to you. They are for your reference and to ensure the assembly files work.
 - DO NOT change the names of the part files provided to you.
 - “Expectations” are what we are looking for when reviewing your training tasks. Attempt to fulfill all the bullet points to the best of your ability. 
 
 # PART 1: ASSEMBLIES
-Download the following parts from the folder, “PART 1: ASSEMBLIES”. Your first task is to create an assembly that combines the parts into a sliding mechanism, as shown in the video below:
+Using the following parts from the folder, “PART 1: ASSEMBLIES” your first task is to create an assembly that combines the parts into a sliding mechanism, as shown in the video below:
 
 https://www.youtube.com/watch?v=vRnA5mdia40 
 
