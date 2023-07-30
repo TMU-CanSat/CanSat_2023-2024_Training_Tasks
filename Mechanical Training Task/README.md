@@ -46,8 +46,6 @@ For the door locking mechanism you completed in Part 2, go on McMaster Carr’s 
 Once you have found the piece that satisfies all the requirements above, download the CAD file compatible and insert it into your assembly. **Note:** you do not need to mate the screws into the door lock. We want to see it in your assembly. If you are unable to download the CAD file and import it in, please download the PDF drawing and place it into your submission folder. 
 
 # SUBMISSION
-Under one zip folder, have your subfolders labeled as Part 1, 2, and Bonus. 
-
 **In your Part 1 folder, please include:**
 - All parts used in the assembly
 - Final assembly file with your changes
@@ -62,4 +60,4 @@ Under one zip folder, have your subfolders labeled as Part 1, 2, and Bonus.
 
 If you used an online platform to complete the training tasks (ex. Onshape), please provide the **share link** to your folders in a PDF. 
 
-Submit your final zip file here: https://forms.gle/kywAnhjzLcfHkiuX9
+Submit your final zip folder here: https://forms.gle/kywAnhjzLcfHkiuX9
