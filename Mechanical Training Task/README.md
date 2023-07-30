@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=vRnA5mdia40
 - Rotation and Move Component tool
 
 # PART 2: MODELING
-In the folder named, “PART 2: MODELING” you will be presented with a door lock assembly file (+ separate part files) and an SG90 servo motor (+ accessories). Your task is to create a mount for the servo motor and an arm that slides the latch back and forth. See an example image in the folder. 
+In the folder named, “PART 2: MODELING” you will be presented with a door lock assembly file (+ separate part files) and an SG90 servo motor (+ accessories). Your task is to create a mount for the servo motor and an arm that slides the latch back and forth. See an example below:
 
 Example door lock mechanism with servo:
 
