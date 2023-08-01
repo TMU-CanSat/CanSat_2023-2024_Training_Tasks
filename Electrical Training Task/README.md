@@ -6,6 +6,9 @@ The PCB should be 100mm x 40mm with 5mm radius rounded corners.
 
 Also add a power input. You may use a connector of your choice.
 
+Below is a link to wiring the 16x2 LCD to an ESP32 for your reference.
+https://www.instructables.com/ESP32-How-to-Interface-LCD-With-ESP32-Microcontrol/
+
 ## Notes
 You can use any PCB design software you want. Although on the team we use Altium. 
 
