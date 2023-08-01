@@ -1,4 +1,4 @@
-# Software Training Task
+# SOFTWARE TRAINING TASK
 
 # Task Description
 The task is to collect data from various sensors, package it into a string, then save it to an SD card and transmit it to the host computer. Also if certain conditions are met perform an action. Use Wokwi to simulate your code and test it. https://wokwi.com/
