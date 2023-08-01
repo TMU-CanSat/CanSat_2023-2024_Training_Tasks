@@ -1,6 +1,6 @@
-# Mechanical Training Task
+# MECHANICAL TRAINING TASK
 
-**Important Notes:**
+## Important Notes
 - Download the entire "Training Package" folder
 - DO NOT make any changes to the part or drawing files provided to you. They are for your reference and to ensure the assembly files work.
 - DO NOT change the names of the part files provided to you.
@@ -11,7 +11,7 @@ Using the following parts from the folder, “PART 1: ASSEMBLIES” your first t
 
 https://www.youtube.com/watch?v=vRnA5mdia40 
 
-**Expectations:**
+## Expectations:
 - Creating a **fully-functional** assembly file
 - Ability to use Mate tool (standard and advanced mate)
 - Rotation and Move Component tool
@@ -24,7 +24,7 @@ Example door lock mechanism with servo:
 ![image](https://github.com/TMU-CanSat/CanSat-2023-24-Training-Tasks/assets/140219101/618829ff-e8b4-407c-b21b-2da6b743a5d6)
 
 
-**Expectations:**
+## Expectations:
 - Creating a fully-functional assembly file (including the parts you designed)
 - Use of tools including: extrude, pattern tool, fillet, chamfer, slot, and hole cut (try to use as many as these!)
 - Proper dimensioning in millimeters
