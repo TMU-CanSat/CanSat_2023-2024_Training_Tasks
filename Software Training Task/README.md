@@ -1,7 +1,7 @@
 # Software Training Task
 
 ## Task Description
-The task is to collect data from various sensors, package it into a string, then save it to an SD card and transmit it to the host computer. Also if certain conditions are met perform an action. You can use Wokwi to simulate your code and test it. https://wokwi.com/
+The task is to collect data from various sensors, package it into a string, then save it to an SD card and transmit it to the host computer. Also if certain conditions are met perform an action. Use Wokwi to simulate your code and test it. https://wokwi.com/
   
 1. Initialize the servo motor at 0 degrees.
 2. Write code to read data from all the sensors listed in [Devices].
@@ -29,3 +29,7 @@ You can use any pins on the Arduino to connect the devices. As long as they work
 - DS18B20 Temperature Sensor
 - MPU6050 6-Axis Accelerometer & Gyroscope Sensor
 - Servo motor
+
+## Submission
+Submit the link to your public Wokwi project in the submission form below.  
+https://forms.gle/odUKQcjkpXAaYcKf6
