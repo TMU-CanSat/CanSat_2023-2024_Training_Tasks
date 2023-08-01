@@ -60,4 +60,4 @@ Once you have found the piece that satisfies all the requirements above, downloa
 
 If you used an online platform to complete the training tasks (ex. Onshape), please provide the **share link** to your folders in a PDF. 
 
-Submit your final zip folder here: https://forms.gle/kywAnhjzLcfHkiuX9
+Upload the .zip to the submission form: https://forms.gle/kywAnhjzLcfHkiuX9
