@@ -1,4 +1,4 @@
-# MECHANICAL TRAINING TASK
+# Mechanical Training Task
 
 **Important Notes:**
 - Download the entire "Training Package" folder
@@ -45,7 +45,7 @@ For the door locking mechanism you completed in Part 2, go on McMaster Carr’s 
 
 Once you have found the piece that satisfies all the requirements above, download the CAD file compatible and insert it into your assembly. **Note:** you do not need to mate the screws into the door lock. We want to see it in your assembly. If you are unable to download the CAD file and import it in, please download the PDF drawing and place it into your submission folder. 
 
-# SUBMISSION
+# Submission
 **In your Part 1 folder, please include:**
 - All parts used in the assembly
 - Final assembly file with your changes
