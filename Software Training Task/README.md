@@ -1,6 +1,8 @@
 # Software Training Task
 
 ## Task Description
+The task is to collect data from various sensors, package it into a string, then save it to an SD card and transmit it to the host computer.  
+  
 1. Write code to read data from all the sensors listed in [Devices]
 2. Collect the following data points:
 	- Temperature
