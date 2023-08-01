@@ -11,4 +11,7 @@ You can use any PCB design software you want. Although on the team we use Altium
 <img src="https://github.com/TMU-CanSat/CanSat_2023-2024_Training_Tasks/blob/main/Electrical%20Training%20Task/Images/Espressif_Systems_ESP32-WROOM-32E.jpg" width="150">  
 
 * BMP280
-<img src="https://github.com/TMU-CanSat/CanSat_2023-2024_Training_Tasks/blob/main/Electrical%20Training%20Task/Images/BMP280.jpg" width="150">
+<img src="https://github.com/TMU-CanSat/CanSat_2023-2024_Training_Tasks/blob/main/Electrical%20Training%20Task/Images/BMP280.jpg" width="150">  
+
+* 16x2 LCD
+<img src="" width="150">
