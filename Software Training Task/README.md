@@ -31,5 +31,4 @@ You can use any pins on the Arduino to connect the devices. As long as they work
 - Servo motor
 
 # Submission
-Submit the link to your public Wokwi project in the submission form below.  
-https://forms.gle/odUKQcjkpXAaYcKf6
+Submit the link to your public Wokwi project in the submission form below: https://forms.gle/odUKQcjkpXAaYcKf6
