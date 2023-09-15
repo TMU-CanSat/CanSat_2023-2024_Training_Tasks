@@ -21,8 +21,7 @@ In the folder named, “PART 2: MODELING” you will be presented with a door lo
 
 Example door lock mechanism with servo:
 
-![image](https://github.com/TMU-CanSat/CanSat-2023-24-Training-Tasks/assets/140219101/618829ff-e8b4-407c-b21b-2da6b743a5d6)
-
+![alt text](https://github.com/TMU-CanSat/CanSat_2023-2024_Training_Tasks/blob/main/Mechanical%20Training%20Task/Training%20Package/PART%202%20-%20Modelling/door%20lock%20mechanism.jpg)
 
 **Expectations:**
 - Creating a fully-functional assembly file (including the parts you designed)
